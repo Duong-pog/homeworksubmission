@@ -1,0 +1,38 @@
+/* cái gì dùng chung thì để ở đây */
+* {
+  margin: 0;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+.input-wrapper input {
+  border: 1px solid #bdbdbd;
+  outline: none;
+  padding: 10px 15px;
+  border-radius: 5px;
+  width: 100%;
+}
+
+.input-wrapper {
+  margin-bottom: 10px;
+}
+
+.btn {
+  cursor: pointer;
+  padding: 10px 20px;
+  color: #ffffff;
+  background-color: #1f6ac4;
+  border-radius: 5px;
+}
+
+.error{
+  color: red;
+}
+
+.cursor-pointer{
+  cursor: pointer;
+}
+
+.form-action span{
+  font-size: 25px;
+}
